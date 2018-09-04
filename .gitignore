@@ -1,0 +1,16 @@
+
+#excluir arhivos de compilacion
+
+Thumbs.db
+*.class
+/workspace/*.jar
+
+#Configuraciones del netbeans
+nbactions.xml
+nb-configuration.xml
+derby.log
+
+
+/workspace/virtualmall/virtualmall-ear/target
+/workspace/virtualmall/virtualmall-ejb/target
+/workspace/virtualmall/virtualmall-web/target
